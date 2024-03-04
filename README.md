@@ -1,4 +1,4 @@
-# Entrega-5-de-marzo
+# ENTREGA 5 DE MARZO
 
 # Configuración de colores
     self.color_fondo = "white"
